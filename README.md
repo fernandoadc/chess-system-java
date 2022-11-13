@@ -16,3 +16,7 @@ Meanwhile, the compiled output files will be generated in the `bin` folder by de
 ## Dependency Management
 
 The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+
+## Chess Java Project
+
+This project aims to implement a system with the functionality of a chess game to integrate the main pillars of `Object Oriented Programming` in the Java Language. With this, you can improve advanced programming skills and get better market readiness.
