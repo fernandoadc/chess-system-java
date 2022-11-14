@@ -1,3 +1,8 @@
+/*
+ * Esta classe é responsável por estruturar a apresentar 
+ * todos os elementos do jogo na saída do App
+ */
+
 package application;
 
 import chess.ChessPiece;

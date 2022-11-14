@@ -1,3 +1,8 @@
+/*
+ * A posição de uma peça no tabuleiro que 
+ * vai estar em uma determinada linha e coluna
+ */
+
 package boardgame;
 
 public class Position {

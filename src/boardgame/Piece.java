@@ -1,3 +1,8 @@
+/*
+ * Aqui é onde se cria uma nova peça 
+ * para o a classe do tabuleiro (Board)
+ */
+
 package boardgame;
 
 public class Piece {
